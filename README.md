@@ -1,6 +1,6 @@
 # UI/UX Repository
 
-Welcome to the UI/UX Repository! This repository houses the code and design assets for [your project name]. It's a [brief description of your project and its purpose].
+Welcome to the UI/UX Repository! This repository houses the code and design assets.
 
 ## Table of Contents
 
@@ -21,5 +21,4 @@ The repository is titled for showcasing my UI/UX project. It contains workflow, 
 
 ## Contact
 
-[Provide contact information or ways for users to reach out to you if they have any questions or feedback. Include your email address or links to your social media profiles.]
-
+Email: SATHEESANAMAL6@GMAIL.COM
