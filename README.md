@@ -4,8 +4,8 @@ Welcome to the UI/UX Repository! This repository houses the code and design asse
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
-- [Installation](#installation)
+- Getting Started
+- Installation 
 
 ## Getting Started
 
